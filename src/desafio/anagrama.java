@@ -32,7 +32,7 @@ public class anagrama {
 	 * ou 0 e 0 o resultado é sempre zero(0).Caso os bits forem diferentes, o
 	 * resultado é 1. Entao cada vez que aparecer uma letra da segunda palavra igual
 	 * a primeira palavra. a varivavel 'r' será igual zero. Portanto, a variavel 'r'
-	 * acumula zero. No final se o 'r' retornar zero é uma anagrama. Caso contrario,
+	 * acumula zero. No final se o 'r' retornar zero é um anagrama. Caso contrario,
 	 * se dê igual a 1. Não é anagrama
 	 */
 	private static boolean isAnagrama(String word1, String word2) {

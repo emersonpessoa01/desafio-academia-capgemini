@@ -9,7 +9,7 @@ public class validatePassword {
 	 * 
 	 * @param String password recebe a palavra que será validada no metodo
 	 *               validate()
-	 * @return int valor retorna um número maior que 0 caso a a senha for validada
+	 * @return int value retorna um número maior que 0 caso a a senha for validada
 	 *         como fraca ou 0 se a senha for validada como forte.
 	 */
 
@@ -28,21 +28,21 @@ public class validatePassword {
 	}
 
 	/**
-	 * Método validaSenha() recebe uma string e analisa, através de expressões
+	 * Método validate() recebe uma string e analisa, através de expressões
 	 * regulares, se a senha é forte ( senha == 0) ou fraca ( senha > 0).
 	 * 
-	 * @param senhaMinuscula expressão regular que valida se a senha possui
-	 *                       caracteres minúsculos
-	 * @param senhaMaiuscula expressão regular que valida se a senha possui
-	 *                       caracteres maiúsculos
-	 * @param senhaDigito    expressão regular que valida se a senha possui
-	 *                       caracteres numéricos
-	 * @param senhaEspecial  expressão regular que valida se a senha possui
-	 *                       caracteres especiais
+	 * @param passwordLowercase expressão regular que valida se a senha possui
+	 *                          caracteres minúsculos
+	 * @param passwordUppercase expressão regular que valida se a senha possui
+	 *                          caracteres maiúsculos
+	 * @param passwordDigit     expressão regular que valida se a senha possui
+	 *                          caracteres numéricos
+	 * @param passwordSpecial   expressão regular que valida se a senha possui
+	 *                          caracteres especiais
 	 * 
-	 * @param Boolean        para cada pattern -> Verdadeiro se cumpre os requisitos
-	 *                       do pattern -> Falso se não cumpre os requisitos do
-	 *                       pattern, adiciona 1 a x.
+	 * @param Boolean           para cada pattern -> Verdadeiro se cumpre os
+	 *                          requisitos do pattern -> Falso se não cumpre os
+	 *                          requisitos do pattern, adiciona 1 a x.
 	 * 
 	 * @return int x se o tamanho da senha mais o valor de x for maior que 6, senão
 	 *         retorna int y, indicando quantos digitos faltam para formar uma senha
