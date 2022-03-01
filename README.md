@@ -1,19 +1,32 @@
-## Desafio Academia - Capgemini
+## Desafio Capgemini
 
-### Para Executar a Aplicação
+Desafio voltado para o processo seletivo da Academia Capgemini.
+
+## Executar a Aplicação
 ```mvn clean install```
+
+ Realizar a troca do arg1 pelo desafio pelo qual executar 
+:heavy_check_mark: Questão1 - desafioUm<br>
+:heavy_check_mark: Questão2 - desafioDois<br>
+:heavy_check_mark: Questão3 - desafioTres
+
+Realizar a troca do arg12 pela entrada do programa 
+:heavy_check_mark: Questão1 - 10<br>
+:heavy_check_mark: Questão2 - Ya3&ab<br>
+:heavy_check_mark: Questão3 - ifailuhkqq
+
 ```mvn spring-boot:run -Dspring-boot.run.arguments="arg1 arg2"```
 
 
-### Tecnologias
-* Springboot
-* Spring Initializr
-* Junit
-* Java8
+## Tecnologias Usadas
+:heavy_check_mark: Spring Initializr<br>
+:heavy_check_mark: Springboot<br>
+:heavy_check_mark: Java8<br>
+:heavy_check_mark: Junit
 
-##3 Testes Unitários
+## Teste Unitário
 
-Rode:
+Executar:
 
 ```
 mvn test 
