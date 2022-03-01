@@ -10,7 +10,7 @@ Desafio voltado para o processo seletivo da Academia Capgemini.
 :heavy_check_mark: Questão2 - desafioDois<br>
 :heavy_check_mark: Questão3 - desafioTres
 
-Realizar a troca do arg12 pela entrada do programa<br>
+Realizar a troca do arg2 pela entrada do programa<br>
 :heavy_check_mark: Questão1 - 10<br>
 :heavy_check_mark: Questão2 - Ya3&ab<br>
 :heavy_check_mark: Questão3 - ifailuhkqq
