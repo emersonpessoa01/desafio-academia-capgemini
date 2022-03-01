@@ -5,7 +5,7 @@ Desafio voltado para o processo seletivo da Academia Capgemini.
 ## Executar aplicação
 ```mvn clean install```
 
- Realizar a troca do arg1 pelo desafio pelo qual deseja executar<br>
+ Realizar a troca do arg1 pelo desafio do qual deseja executar<br>
 :heavy_check_mark: Questão1 - desafioUm<br>
 :heavy_check_mark: Questão2 - desafioDois<br>
 :heavy_check_mark: Questão3 - desafioTres
